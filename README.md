@@ -9,11 +9,11 @@ This repository contains Python scripts and supplemental documents for analyzing
 <pre>
 Amplifier-Analyzer/
 ├── Project_3/                         # BJT Common-Emitter Amplifier
-│   ├── project3_script.py            # Python script for amplifier analysis
+│   ├── bjt_amplifier.py            # Python script for amplifier analysis
 │   └── ECE3114_Project_3_Specs.pdf   # Official project description and specs
 │
 ├── Project_4/                         # FET Common-Gate Amplifier
-│   ├── project4_script.py            # Python script for amplifier analysis
+│   ├── commonGateFET.py            # Python script for amplifier analysis
 │   └── ECE3114_Project_4_Specs.pdf   # Official project description and specs
 │
 ├── LICENSE
@@ -53,13 +53,13 @@ Each Python script:
 
 ## 🚀 How to Run
 
-1. Open either `project3_script.py` or `project4_script.py` in your preferred IDE.
+1. Open either `bjt_amplifier.py` or `commonGateFET.py` in your preferred IDE.
 2. Fill in the appropriate values for resistors, supply voltages, and student ID–based RL.
 3. Run the script:
    ```bash
-   python project3_script.py
+   python bjt_amplifier.py
    # or
-   python project4_script.py
+   python commonGateFET.py
 Read the printed output to verify if your design meets course requirements.
 
 ✅ Example Output (BJT Script)
