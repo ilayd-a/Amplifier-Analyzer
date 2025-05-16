@@ -63,7 +63,7 @@ Each Python script:
 Read the printed output to verify if your design meets course requirements.
 
 ✅ Example Output (BJT Script)
-    ```bash
+    ```
       Vth = 3.29 Rth = 4935.48
       I_C = 0.0095 A, I_E = 0.00957 A, I_B = 6.33e-05 A
       V_ce = 2.59 V, V_ce_sat = 0.3 V
