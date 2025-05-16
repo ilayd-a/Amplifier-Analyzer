@@ -10,11 +10,11 @@ This repository contains Python scripts and supplemental documents for analyzing
 Amplifier-Analyzer/
 ├── Project_3/                         # BJT Common-Emitter Amplifier
 │   ├── bjt_amplifier.py            # Python script for amplifier analysis
-│   └── ECE3114_Project_3_Specs.pdf   # Official project description and specs
+│   └── ECE3114 Project 3 BJT Amplifier Spring 2025.pdf   # Official project description and specs
 │
 ├── Project_4/                         # FET Common-Gate Amplifier
 │   ├── commonGateFET.py            # Python script for amplifier analysis
-│   └── ECE3114_Project_4_Specs.pdf   # Official project description and specs
+│   └── ECE3114 Extra Credit Design Project 4 FET Common Gate Amplifier Spring 2025.pdf   # Official project description and specs
 │
 ├── LICENSE
 └── README.md
