@@ -77,4 +77,4 @@ Read the printed output to verify if your design meets course requirements.
       V_out = -10341.17, V_in = 5375.25, A_v = -1.92
       FAILED: A_v outside of acceptable range
       A_V = -1.92
-
+```
