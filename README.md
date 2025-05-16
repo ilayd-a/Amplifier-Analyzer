@@ -33,7 +33,7 @@ Each Python script:
 - Reports whether each key specification is **passed** or **failed**
 
 ## ⚙️ Specifications
-# 🔧 Project 3 – BJT Amplifier
+### 🔧 Project 3 – BJT Amplifier
 - Transistor: 2N3904 (β = 150, V<sub>CE,sat</sub> = 0.3 V)
 - Single +V<sub>CC</sub> power supply ≤ 50 V
 - Resistor-only DC biasing
@@ -42,7 +42,7 @@ Each Python script:
 - Target gain: 15 ± 5%
 - Max transistor power dissipation: 200 mW
 
-# 🔧 Project 4 – FET Amplifier
+### 🔧 Project 4 – FET Amplifier
 - Transistor: IRF840 NMOS (k<sub>n</sub> = 6.5 A/V², V<sub>TN</sub> = 3.85 V)
 - Dual ±V<sub>DD</sub> supply (≤ 50 V)
 - Load resistor: RL = last two digits of student ID (min 20 Ω)
