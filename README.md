@@ -33,8 +33,7 @@ Each Python script:
 - Reports whether each key specification is **passed** or **failed**
 
 ## ⚙️ Specifications
-
-### 🔧 Project 3 – BJT Amplifier
+# 🔧 Project 3 – BJT Amplifier
 - Transistor: 2N3904 (β = 150, V<sub>CE,sat</sub> = 0.3 V)
 - Single +V<sub>CC</sub> power supply ≤ 50 V
 - Resistor-only DC biasing
@@ -43,7 +42,7 @@ Each Python script:
 - Target gain: 15 ± 5%
 - Max transistor power dissipation: 200 mW
 
-### 🔧 Project 4 – FET Amplifier
+# 🔧 Project 4 – FET Amplifier
 - Transistor: IRF840 NMOS (k<sub>n</sub> = 6.5 A/V², V<sub>TN</sub> = 3.85 V)
 - Dual ±V<sub>DD</sub> supply (≤ 50 V)
 - Load resistor: RL = last two digits of student ID (min 20 Ω)
@@ -64,18 +63,18 @@ Each Python script:
 Read the printed output to verify if your design meets course requirements.
 
 ✅ Example Output (BJT Script)
-  ```bash
-    Vth = 3.29 Rth = 4935.48
-    I_C = 0.0095 A, I_E = 0.00957 A, I_B = 6.33e-05 A
-    V_ce = 2.59 V, V_ce_sat = 0.3 V
-    PASSED: V_ce > V_ce_sat: BJT is forward active
-    P_D = 0.0246 W
-    PASSED: P_D < 0.2W: power satisfied
-    PASSED: DC Stability achieved
-    PASSED: AC Stability achieved
-    r_pi = 410.77, beta*(R_E_unbypassed) = 4500.0
-    V_in_prime: 4880.77
-    V_out = -10341.17, V_in = 5375.25, A_v = -1.92
-    FAILED: A_v outside of acceptable range
-    A_V = -1.92
+    ```bash
+      Vth = 3.29 Rth = 4935.48
+      I_C = 0.0095 A, I_E = 0.00957 A, I_B = 6.33e-05 A
+      V_ce = 2.59 V, V_ce_sat = 0.3 V
+      PASSED: V_ce > V_ce_sat: BJT is forward active
+      P_D = 0.0246 W
+      PASSED: P_D < 0.2W: power satisfied
+      PASSED: DC Stability achieved
+      PASSED: AC Stability achieved
+      r_pi = 410.77, beta*(R_E_unbypassed) = 4500.0
+      V_in_prime: 4880.77
+      V_out = -10341.17, V_in = 5375.25, A_v = -1.92
+      FAILED: A_v outside of acceptable range
+      A_V = -1.92
 
