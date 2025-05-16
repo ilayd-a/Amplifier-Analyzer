@@ -4,19 +4,7 @@
 
 This repository contains Python scripts and supplemental documents for analyzing and verifying the design of **BJT** and **FET** single-stage amplifiers. These projects were developed as part of NYU Tandon's *ECE3114 Fundamentals of Electronics I* course, covering both theoretical hand calculations and automated validation of design parameters.
 
-## 📁 Directory Structure
-
-Amplifier-Analyzer/
-├── Project_3/ # BJT Common-Emitter Amplifier
-│ ├── project3_script.py # Python script for amplifier analysis
-│ └── ECE3114_Project_3_Specs.pdf # Official project description and specs
-│
-├── Project_4/ # FET Common-Gate Amplifier
-│ ├── project4_script.py # Python script for amplifier analysis
-│ └── ECE3114_Project_4_Specs.pdf # Official project description and specs
-│
-├── LICENSE
-└── README.md
+<pre lang="markdown"> ## 📁 Directory Structure ``` Amplifier-Analyzer/ ├── Project_3/ # BJT Common-Emitter Amplifier │ ├── project3_script.py # Python script for amplifier analysis │ └── ECE3114_Project_3_Specs.pdf # Official project description and specs │ ├── Project_4/ # FET Common-Gate Amplifier │ ├── project4_script.py # Python script for amplifier analysis │ └── ECE3114_Project_4_Specs.pdf # Official project description and specs │ ├── LICENSE └── README.md ``` </pre>
 
 ## 🧪 What These Scripts Do
 
